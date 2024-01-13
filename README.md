@@ -1,2 +1,2 @@
 # projeto1-edson-devaprender
-Tutorial de como suar o Git por jhonatan da dev aprender
+Tutorial de como usar o Git por jhonatan da dev aprender
